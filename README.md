@@ -1,8 +1,8 @@
 # ECharts-Theme-Builder
 
-Design your own theme for ECharts
+Design your own theme for [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts)
 
-[Online Theme Builder](https://echartsjs.com/theme-builder/)
+[Online Theme Builder](https://echarts.apache.org/en/theme-builder.html)
 
 ![](https://raw.githubusercontent.com/Ovilia/ECharts-Theme-Builder/master/assets/essos.png)
 
